@@ -1,4 +1,4 @@
-# **stats220**
+# stats220
 
 ## This is a repository containing everything possible for stats220
 
@@ -8,7 +8,9 @@ As a programming novice, some of my "masterpieces" may make you feel
 * *exhausted*  
 
 
-**But don't worry**
+**But don't worry !**
+
+
 `I'll try to let you see the progress I've made while taking this course and make you feel better.`
 
 
