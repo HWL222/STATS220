@@ -3,9 +3,9 @@
 ## This is a repository containing everything possible for stats220
 
 As a programming novice, some of my "masterpieces" may make you feel
->* *bored*
->* *anxious*
->* *exhausted*  
+>- *bored*
+>- *anxious*
+>- *exhausted*  
 
 
 **But don't worry !**
